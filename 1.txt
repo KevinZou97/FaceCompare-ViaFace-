@@ -1,0 +1,1 @@
+{"image_id": "QRhu8QHwXUvBTflGE95Akw==", "request_id": "1501685558,46d38f02-3084-478f-8296-d7bd3904b1dc", "time_used": 237, "faces": [{"face_rectangle": {"width": 277, "top": 189, "left": 33, "height": 277}, "face_token": "4cd8350a68506fe9704bfb65a5e40ebc"}]}
