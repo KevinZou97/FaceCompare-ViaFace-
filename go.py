@@ -1,4 +1,5 @@
-import sys
+import urllib
+import os
 
 execfile('compare1.py')
 execfile('compare2.py')
